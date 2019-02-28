@@ -28,6 +28,8 @@ No installation required. For Kaggle kernals, Kaggle account required.
 [![Launch on Kaggle](https://img.shields.io/badge/Launch-Kaggle-blue.svg)](https://www.kaggle.com/vingkan/open-data-spatial-visualization)
 [![Launch on Binder](https://img.shields.io/badge/Launch-Binder-orange.svg)](https://mybinder.org/v2/gh/vingkan/crash/master?filepath=Open%20Data%20Spatial%20Visualization.ipynb)
 
+This notebook requires an internet connection to query the data portal. When using a Kaggle kernel, open the right-hand pane, navigate to Settings > Internet, then select `Internet connected`. Internet connection requires a phone number connected to your Kaggle account. If you do not wish to do this, you cacn open the notebook in Binder.
+
 The Binder notebook is not set up correctly. Add this first cell to install the required packages:
 
 ```
