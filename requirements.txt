@@ -1,0 +1,10 @@
+matplotlib==3.0.2
+numpy==1.16.0
+numpydoc==0.6.0
+pandas==0.24.0
+requests>=2.20.0
+requests-oauthlib==1.2.0
+requests-toolbelt==0.7.0
+seaborn==0.9.0
+scikit-learn==0.20.2
+scipy==1.2.0
