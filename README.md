@@ -10,7 +10,7 @@ Sample analysis of Chicago traffic crashes data. Includes cleaned data for crash
 
 ## Resources
 
-- [Slides](https://docs.google.com/presentation/d/1Pk6gX8ZfrWenUzFfKpMLfU9_xgqbKcFmVtG_wL8kH4U/edit?usp=sharing) from the Illinois Institute of Technology [ACM and ML club](https://www.facebook.com/events/robert-a-pritzker-science-center/acm-chicago-crash-data-exploration/353835675469249/) event and from the [Chicago Data Viz Community](https://www.meetup.com/Chicago-Data-Viz-Community/events/259706864/) meetup.
+- [Slides](https://docs.google.com/presentation/d/1Pk6gX8ZfrWenUzFfKpMLfU9_xgqbKcFmVtG_wL8kH4U/edit?usp=sharing) from the Illinois Tech [ACM and ML club](https://www.facebook.com/events/robert-a-pritzker-science-center/acm-chicago-crash-data-exploration/353835675469249/) event and from the [Chicago Data Viz Community](https://www.meetup.com/Chicago-Data-Viz-Community/events/259706864/) meetup.
 - [Desmos activity](https://student.desmos.com/?prepopulateCode=5kbq3y) about critically evaluating applications of open data.
 - [ChiHackNight](https://chihacknight.org), Chicago's weekly meetup to learn more about civic technology.
 - [SoQL Learning Group](https://github.com/chihacknight/breakout-groups/issues/132) resources and activities to practice writing Socrata SQL (SoQL) queries for open datasets.
