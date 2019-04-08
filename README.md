@@ -10,7 +10,7 @@ Sample analysis of Chicago traffic crashes data. Includes cleaned data for crash
 
 ## Resources
 
-- [Slides](https://docs.google.com/presentation/d/1Pk6gX8ZfrWenUzFfKpMLfU9_xgqbKcFmVtG_wL8kH4U/edit?usp=sharing) from the ACM and Machine Learning Club event. 
+- [Slides](https://docs.google.com/presentation/d/1Pk6gX8ZfrWenUzFfKpMLfU9_xgqbKcFmVtG_wL8kH4U/edit?usp=sharing) from the Illinois Institute of Technology [ACM and ML club](https://www.facebook.com/events/robert-a-pritzker-science-center/acm-chicago-crash-data-exploration/353835675469249/) event and from the [Chicago Data Viz Community](https://www.meetup.com/Chicago-Data-Viz-Community/events/259706864/) meetup.
 - [Desmos activity](https://student.desmos.com/?prepopulateCode=5kbq3y) about critically evaluating applications of open data.
 - [ChiHackNight](https://chihacknight.org), Chicago's weekly meetup to learn more about civic technology.
 - [SoQL Learning Group](https://github.com/chihacknight/breakout-groups/issues/132) resources and activities to practice writing Socrata SQL (SoQL) queries for open datasets.
@@ -19,26 +19,10 @@ Sample analysis of Chicago traffic crashes data. Includes cleaned data for crash
 
 No installation required. For Kaggle kernals, Kaggle account required.
 
-### Sample Analysis with Cleaned Data
+[![Launch on Binder](https://img.shields.io/badge/Launch-Binder-orange.svg)](https://mybinder.org/v2/gh/vingkan/crash/master)
 
-[![Launch on Kaggle](https://img.shields.io/badge/Launch-Kaggle-blue.svg)](https://www.kaggle.com/vingkan/chicago-traffic-crashes-sample-notebook-2018)
-
-### Sample Spatial Visualizations
-
-[![Launch on Kaggle](https://img.shields.io/badge/Launch-Kaggle-blue.svg)](https://www.kaggle.com/vingkan/open-data-spatial-visualization)
-[![Launch on Binder](https://img.shields.io/badge/Launch-Binder-orange.svg)](https://mybinder.org/v2/gh/vingkan/crash/master?filepath=Open%20Data%20Spatial%20Visualization.ipynb)
-
-This notebook requires an internet connection to query the data portal. When using a Kaggle kernel, open the right-hand pane, navigate to Settings > Internet, then select `Internet connected`. Internet connection requires a phone number connected to your Kaggle account. If you do not wish to do this, you cacn open the notebook in Binder.
-
-The Binder notebook is not set up correctly. Add this first cell to install the required packages:
-
-```
-!pip install pandas
-!pip install numpy
-!pip install requests
-!pip install matplotlib
-!pip install seaborn
-```
+- `Open Data Spatial Visualization`: Sample visualizations directly pulling from open data.
+- `Traffic Crash Sample`: Sample analysis with saved version of cleaned dataset.
 
 ## Disclaimer
 
